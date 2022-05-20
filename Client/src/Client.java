@@ -8,7 +8,7 @@ public class Client {
         {
             System.out.println("Connected to server");
 
-            String request = "Manchazh";
+            String request = "na-na";
             System.out.println("Request: " + request);
             phone.writeLine(request);
 
